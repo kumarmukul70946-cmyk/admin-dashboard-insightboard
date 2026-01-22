@@ -1,0 +1,22 @@
+
+> frontend@0.0.0 lint
+> eslint .
+
+
+C:\Users\Mukul Anand\Downloads\Admin Dashboard Project\frontend\src\components\layout\Navbar.jsx
+  7:19  error  'logout' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Mukul Anand\Downloads\Admin Dashboard Project\frontend\src\components\ui\StatCard.jsx
+  3:56  error  'Icon' is defined but never used  no-unused-vars
+
+C:\Users\Mukul Anand\Downloads\Admin Dashboard Project\frontend\src\pages\dashboard\Orders.jsx
+  40:22  error  'row' is defined but never used  no-unused-vars
+
+C:\Users\Mukul Anand\Downloads\Admin Dashboard Project\frontend\src\pages\dashboard\Products.jsx
+  61:22  error  'row' is defined but never used  no-unused-vars
+
+C:\Users\Mukul Anand\Downloads\Admin Dashboard Project\frontend\src\pages\dashboard\Users.jsx
+  56:22  error  'row' is defined but never used  no-unused-vars
+
+Γ£û 5 problems (5 errors, 0 warnings)
+
