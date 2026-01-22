@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**(https://admin-dashboard-insightboard-5eu7ew31x-mukul-anannds-projects.vercel.app/login)**  
+**[View Live Deployment on Vercel](https://admin-dashboard-insightboard-5eu7ew31x-mukul-anannds-projects.vercel.app/login)**  
 *(Note: Please replace the link above with your actual Vercel deployment URL)*
 
 ## 📖 About The Project
